@@ -1,0 +1,8 @@
+# nodejs
+node_modules
+
+# enviroment variables
+.env
+
+#comentarios agus
+Proyecto.docx
